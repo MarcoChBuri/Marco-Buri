@@ -1,2 +1,4 @@
-hola
-como etas
+int = ("hola")
+
+mnzlk
+
