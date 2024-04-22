@@ -1,4 +1,0 @@
-int = ("hola")
-
-mnzlk
-
